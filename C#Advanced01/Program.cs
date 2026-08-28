@@ -39,6 +39,7 @@ namespace C_Advanced01
             #endregion
 
             #region q5 Write a generic method FindMax<T> that finds maximum value
+
             int[] numbers = { 3, 15, 7, 2, 9 };
             int maxNum = ArrayUtils.FindMax(numbers);
             string[] names = { "Apple", "Orange", "Banana" };
