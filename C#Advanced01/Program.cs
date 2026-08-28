@@ -115,6 +115,7 @@ namespace C_Advanced01
             #endregion
 
             #region q15 Q15: What is covariance? Explain the 'out' keyword.
+
             /*Covariance allows you to use a more derived type (subclass) than originally specified.
              * The out keyword makes a generic type parameter covariant, meaning T can only be returned (output), never accepted as a parameter (input).
              * 
