@@ -20,6 +20,7 @@ namespace C_Advanced01
             #endregion
 
             #region q3 Q3:What are multiple type parameters? Write Pair<TKey,TValue >.
+
             //class or interface or method can accept more than one placeholder type (not just <t> we can now make more than one )
             Pair<string, int> score = new Pair<string, int>("eman", 100);
             Console.WriteLine(score.Key+" "+score.Value);
