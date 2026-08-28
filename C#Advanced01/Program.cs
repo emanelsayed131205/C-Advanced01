@@ -105,6 +105,7 @@ namespace C_Advanced01
 
            
             #region q14 Write a SafeList<T> that returns default when the index is invalid.
+
             SafeList<int> number = new SafeList<int>();
             number.Add(42);
 
