@@ -8,6 +8,7 @@ namespace C_Advanced01
         static void Main(string[] args)
         {
             #region q1 What is a generic class? Why use generics?
+
             //generic class is class has more than one type of parameters ,using generics provides reusability of the code , clean code and better performance
             #endregion
 
