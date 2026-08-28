@@ -152,6 +152,7 @@ namespace C_Advanced01
             #endregion
 
             #region q19 How can you inherit from a generic class?
+
             /*Specify a Concrete Type Provide a specific type (like string or int) when inheriting
              * Keep the Derived Class Generic Pass the type parameter T through to the base class
              */
