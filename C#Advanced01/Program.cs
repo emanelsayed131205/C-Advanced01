@@ -124,6 +124,7 @@ namespace C_Advanced01
 
 
             #region q16 Q16: What is contravariance? Explain the 'in' keyword.
+
             /*Contravariance allows you to use a less derived type (a base class) where a
              * more derived type is expected. It reverses normal inheritance compatibility.
              * The in keyword marks a generic type parameter as contravariant.
