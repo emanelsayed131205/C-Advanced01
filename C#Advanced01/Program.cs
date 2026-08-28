@@ -97,6 +97,7 @@ namespace C_Advanced01
             #endregion
 
             #region q13 What does the 'default' keyword do in generics?
+
             //the default keyword returns the default value of a type parameter
             //T when you do not know in advance whether T will be a reference type (like string or class) or a value type (like int or struct).
 
