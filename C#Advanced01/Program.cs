@@ -54,6 +54,7 @@ namespace C_Advanced01
             #endregion
 
             #region q7 What is the 'struct' constraint? Write an example.
+
             //allows you to specify which type can be used as arguments for a generic type
             var valid = new Calc<int>();
             #endregion
