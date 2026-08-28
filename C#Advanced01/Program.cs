@@ -47,6 +47,7 @@ namespace C_Advanced01
             #endregion
 
             #region q6 What is a generic interface? Write IRepository<T>.
+
             //A generic interface is an interface declared with type parameters,
             //allowing it to define a strongly-typed contract for classes to implement without committing to a specific data type up front.
 
