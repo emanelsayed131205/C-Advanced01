@@ -66,6 +66,7 @@ namespace C_Advanced01
             #endregion
 
             #region q9 What is the 'new()' constraint? Write an example.
+
             //constraints have public parameterless constructor
             var creator = new Creator<List<int>>(); 
             List<int> myList = creator.Build();
