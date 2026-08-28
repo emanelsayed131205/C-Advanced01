@@ -78,7 +78,8 @@ namespace C_Advanced01
             var saver = new Saver<StreamReader>();
             #endregion
 
-            #region q11 What is the base class constraint? Write an example.
+            #region q11 What is the base class constraint? Write an example
+
             //The base class constraint restricts a generic type parameter T to a specific class or its derived subclasses.
             var canvas = new Canvas<Circle>();
 
