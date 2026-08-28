@@ -143,6 +143,7 @@ namespace C_Advanced01
             #endregion
 
             #region q18 How do static members work in generic types?
+
             /*Static members in a generic class are not shared across different type arguments.
              * Each distinct closed type gets its own independent copy of static fields and static constructors.
              * 
