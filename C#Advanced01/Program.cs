@@ -73,6 +73,7 @@ namespace C_Advanced01
             #endregion
 
             #region q10 What is the interface constraint? Write an example.
+
             //restricts a generic type parameter T to types that implement a specific interface
             var saver = new Saver<StreamReader>();
             #endregion
