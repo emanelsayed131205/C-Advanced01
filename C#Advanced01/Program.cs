@@ -86,6 +86,7 @@ namespace C_Advanced01
             #endregion
 
             #region q12 How do you apply multiple constraints? Write an example.
+
             /*When combining constraints, C# requires them to follow a strict order:
 
              *Primary constraint(Class, Struct, or Base Class) — must be first,Secondary constraints(Interfaces) — middle,Constructor constraint(new()) — must be last.
