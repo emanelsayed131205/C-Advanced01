@@ -13,7 +13,8 @@ namespace C_Advanced01
             #endregion
 
             #region q2 Write a generic class Container<T> with Add and Get methods.
-                        Container<string> box = new Container<string>();
+
+            Container<string> box = new Container<string>();
             box.Add("hello");
             string text = box.Get(0);
             #endregion
