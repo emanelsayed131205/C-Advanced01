@@ -27,6 +27,7 @@ namespace C_Advanced01
             #endregion
 
             #region q4 What is a generic method? Write Swap<T> method.
+
             /*a method declared with type parameters, allowing it to process
              different data types with a single implementation while maintaining
              full type safety and avoiding performance overhead like boxing/unboxing.
