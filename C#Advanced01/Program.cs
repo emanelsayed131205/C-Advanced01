@@ -133,6 +133,7 @@ namespace C_Advanced01
             #endregion
 
             #region q17 What is the difference between covariance and contravariance ?
+
             /*The core difference comes down to data direction:
              * Covariance (out): Preserves inheritance order. Allows returning a more derived type (subclass).
              * Contravariance (in): Reverses inheritance order. Allows passing a less derived type (base class).
