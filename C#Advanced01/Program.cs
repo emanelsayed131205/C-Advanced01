@@ -60,6 +60,7 @@ namespace C_Advanced01
             #endregion
 
             #region q8 What is the 'class' constraint? Write an example.
+
             //allows only ref type 
             var validator = new Validator<string>();
             #endregion
